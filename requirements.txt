@@ -1,0 +1,7 @@
+chromadb>=0.4.0
+sentence-transformers>=2.2.0
+PyQt6>=6.4.0
+PyPDF2>=3.0.0
+python-docx>=0.8.11
+python-magic>=0.4.27
+langchain>=0.0.200
